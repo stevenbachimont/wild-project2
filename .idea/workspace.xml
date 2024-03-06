@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4940c884-1b95-4124-94ea-eb3ae82a6f72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML File.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML File.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gigi.css" beforeDir="false" afterPath="$PROJECT_DIR$/gigi.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +16,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2dJj80oMcaUaAjJZgCSY31bNoWO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "steven__branch",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709732915325</updated>
       <workItem from="1709732919407" duration="56000" />
+      <workItem from="1709735389683" duration="129000" />
     </task>
     <servers />
   </component>
